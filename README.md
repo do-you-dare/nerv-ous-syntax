@@ -1,8 +1,10 @@
 # NERV-ous syntax theme
 
-A colorscheme based on evangelion. Actually a port of the [vim theme](http://www.vim.org/scripts/script.php?script_id=4764).
+A colorscheme based on evangelion. Actually a port of the [vim
+theme](https://github.com/dread-uo/NERV-ous).
 
-As this is my first experience on syntax themes, there's home for lots of improvement.
-If you feel like helping, don't hesitate :)
+As this is my first experience on syntax themes, there's home for lots of
+improvement.  If you feel like opening some issues or pull requests, don't
+hesitate :)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](screenshot.png)
